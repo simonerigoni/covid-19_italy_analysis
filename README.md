@@ -18,7 +18,7 @@ Both sources are in CSV format hosted online
 
 ## Running the code
 
-'covid-19_italy_analysis.xlsx' can be used to check the predictions done while 'covid-19_italy_analysis.pbix' can be used to check the Microsoft Power BI report
+`covid-19_italy_analysis.xlsx` can be used to check the predictions done while `covid-19_italy_analysis.pbix` can be used to check the Microsoft Power BI report
 
 ## Results
 
