@@ -49,5 +49,4 @@ Results are better explained in this [blog post](https://medium.com/@simone.rigo
 ## Licensing and Acknowledgements
 
 Thank you [Protezione Civile](http://www.protezionecivile.gov.it/) for the datasets and for the outstanding work you are doing with [Servizio Sanitario Nazionale](http://www.salute.gov.it/portale/salute/p1_4.jsp?lingua=italiano&area=Il_Ssn) to save as many lives as possible.
-Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) for the world data
-More information about the licensing of the data can be found on their web sites
+Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) for the world data. More information about the licensing of the data can be found on their web sites
