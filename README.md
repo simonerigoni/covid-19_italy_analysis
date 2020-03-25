@@ -42,6 +42,8 @@ From there using Excel we have build a model
 
 ![deceased_model](images/deceased_model.png)
 
+Deceased prediction is marked in orange while the current data are in blue
+
 Results are better explained in this [blog post](https://medium.com/@simone.rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11)
 
 ## Licensing and Acknowledgements
