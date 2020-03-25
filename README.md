@@ -18,7 +18,7 @@ Both sources are in CSV format hosted online
 
 ## Running the code
 
-'covid-19_italy_analysis.xlsx' can be used to check the predictions done while 'covid-19_italy_analysis.pbix' can be used to check the Microsoft Power BI report
+`covid-19_italy_analysis.xlsx` can be used to check the predictions done while `covid-19_italy_analysis.pbix` can be used to check the Microsoft Power BI report
 
 ## Results
 
@@ -42,10 +42,11 @@ From there using Excel we have build a model
 
 ![deceased_model](images/deceased_model.png)
 
+Deceased prediction is marked in orange while the current data are in blue
+
 Results are better explained in this [blog post](https://medium.com/@simone.rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11)
 
 ## Licensing and Acknowledgements
 
 Thank you [Protezione Civile](http://www.protezionecivile.gov.it/) for the datasets and for the outstanding work you are doing with [Servizio Sanitario Nazionale](http://www.salute.gov.it/portale/salute/p1_4.jsp?lingua=italiano&area=Il_Ssn) to save as many lives as possible.
-Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) for the world data
-More information about the licensing of the data can be found on their web sites
+Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) for the world data. More information about the licensing of the data can be found on their web sites
