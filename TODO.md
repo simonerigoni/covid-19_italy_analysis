@@ -1,12 +1,19 @@
-# To do list 
+# Italy COVID-19 data analysis
 
-## New ideas
+## Introduction
 
+Overview of the status of the tasks of this project.
 
-## To Do
+## Tasks
 
+### To do
 
-## In Progress
+- [ ] None
 
+### In Progress
 
-## Done ✓
+- [ ] None
+
+### Done ✓
+
+- [x] Things I have done

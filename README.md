@@ -1,4 +1,4 @@
-# Italy COVID-19 data analysis 
+# Italy COVID-19 data analysis
 
 ## Introduction
 
@@ -10,11 +10,11 @@ To gather, model and visualize data I have used [Microsoft Power BI](https://pow
 
 ## Data
 
-Since the end of February 2020 [Italian Civil Protection Department](http://www.protezionecivile.gov.it/) is publishing in this Github [repository](https://github.com/pcm-dpc/COVID-19) the data about the situation of COVID-19 spreading in Italy. The data are updated every day at 6 PM CET
+Have a look at the `data` folder and its [DATA.md](data/DATA.md) file.
 
-I have also used data from [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) to compare the italian situation with other countries
+## Testing
 
-Both sources are in CSV format hosted online
+No test implemented.
 
 ## Running the code
 
@@ -46,7 +46,11 @@ Deceased prediction is marked in orange while the current data are in blue
 
 Results are better explained in this [blog post](https://medium.com/@simone.rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11)
 
+## List of activities
+
+In the [TODO.md](TODO.md) file you can find the list of tasks and on going activities.
+
 ## Licensing and Acknowledgements
 
-Thank you [Protezione Civile](http://www.protezionecivile.gov.it/) for the datasets and for the outstanding work you are doing with [Servizio Sanitario Nazionale](http://www.salute.gov.it/portale/salute/p1_4.jsp?lingua=italiano&area=Il_Ssn) to save as many lives as possible.
+Have a look at [LICENSE.md](LICENSE.md) and thank you [Protezione Civile](http://www.protezionecivile.gov.it/) for the datasets and for the outstanding work you are doing with [Servizio Sanitario Nazionale](http://www.salute.gov.it/portale/salute/p1_4.jsp?lingua=italiano&area=Il_Ssn) to save as many lives as possible.
 Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) for the world data. More information about the licensing of the data can be found on their web sites
