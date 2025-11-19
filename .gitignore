@@ -1,5 +1,4 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Files, directories or patterns that should be excluded from Git tracking
 
-/.vs
+# Temp stuff
+temp/
