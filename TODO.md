@@ -1,6 +1,6 @@
 # Italy COVID-19 data analysis
 
-## Introduction
+## TODO
 
 Overview of the status of the tasks of this project.
 
