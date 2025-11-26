@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The goal is to get some insights about the spreading of the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) in Italy
+The goal is to get some insights about the spreading of the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) in Italy.
 
 ## Software and Libraries
 
-To gather, model and visualize data I have used [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) while for the prediction part I have used [Microsoft Excel](https://products.office.com/en/excel)
+To gather, model and visualize data I have used [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) while for the prediction part I have used [Microsoft Excel](https://products.office.com/en/excel).
 
 ## Data
 
