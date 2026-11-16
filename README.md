@@ -1,5 +1,7 @@
 # Italy COVID-19 data analysis
 
+[![License](https://img.shields.io/github/license/simonerigoni/covid-19_italy_analysis)](LICENSE.md)
+
 ## Introduction
 
 The goal is to get some insights about the spreading of the [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) in Italy.
