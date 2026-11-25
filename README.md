@@ -46,7 +46,7 @@ From there using Excel we have build a model
 
 Deceased prediction is marked in orange while the current data are in blue
 
-Results are better explained in this [blog post](https://medium.com/@simone.rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11)
+Results are better explained in this [blog post](https://medium.com/@simone-rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11)
 
 ## List of activities
 
@@ -59,4 +59,4 @@ Also thank you to [Humanitarian Data Exchange](https://data.humdata.org/dataset/
 
 ## Outro
 
-I hope this repository was interesting and thank you for taking the time to check it out. On my Medium you can find a more in depth [story](https://medium.com/analytics-vidhya/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11). Let me know if you have any question and if you like the content that I create feel free to [buy me a coffee](https://www.buymeacoffee.com/simonerigoni).
+I hope this repository was interesting and thank you for taking the time to check it out. On my Medium you can find a more in depth [story](https://medium.com/@simone-rigoni01/analyse-covid-19-spreading-in-italy-with-microsoft-excel-and-power-bi-a4ac70cb4d11). Let me know if you have any question and if you like the content that I create feel free to [buy me a coffee](https://www.buymeacoffee.com/simonerigoni).
